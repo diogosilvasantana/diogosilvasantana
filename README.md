@@ -12,14 +12,8 @@ Engenheiro de Software Sr. (Front-end)<br>Atuando no Itaú - Unibanco | íon Ita
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diogosilvasantana&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogosilvasantana&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diogosilvasantana&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=diogosilvasantana&icon=1&color=7)](https://visitcount.itsvg.in)
