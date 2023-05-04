@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Engenheiro de Software Sr. (Front-end)<br>Atuando no Itaú - Unibanco | íon Itaú<br>Graduado em Anl. Des. Sistemas
+Engenheiro de Software Sr. (Front-end)<br>Atuando no Itaú - Unibanco | íon Itaú<br>Graduado em Anl. Des. Sistemas pela Anhanguera<br>Cursando Pós-Graduação em Software Architects pela FIAP
 
 
 ## 🌐 Redes Sociais:
