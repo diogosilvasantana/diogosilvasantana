@@ -1,6 +1,6 @@
 # Diogo Silva
 
-**Senior Software Engineer @Itau-Unibanco**
+**Senior Software Engineer @Mercado Livre**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diogo%20Silva-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogosilvasantana/)](https://www.linkedin.com/in/diogosilvasantana/) 
 [![Gmail Badge](https://img.shields.io/badge/-diogosilvaoficial@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogosilvaoficial@gmail.com)](mailto:diogosilvaoficial@gmail.com)
