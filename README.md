@@ -56,7 +56,7 @@ I build the micro-frontends that bring new services into **Fury**, Mercado Livre
 | --- | --- | --- |
 | [**Maestro**](https://github.com/pradofigu/maestro) | Fast-food ordering system built across 5 phases of my post-grad: Kotlin monolith with DDD and Clean Architecture, AWS infra with Terraform (EKS, RDS, Cognito), then .NET microservices with a choreographed SAGA over RabbitMQ | Kotlin · Spring Boot · AWS · Terraform · Kubernetes |
 | [**Clockwise**](https://github.com/pradofigu/clockwise) | Time-tracking MVP from the post-grad hackathon, with real-time worked hours and breaks, documented with the C4 model | NestJS · TypeORM · MySQL |
-| [**diogosantana.dev.br**](https://diogosantana.dev.br) | My portfolio: static Astro site in 3 languages, containerized and self-hosted with Docker and Coolify | Astro · TypeScript · Docker |
+| [**diogosantana.dev.br**](https://github.com/diogosilvasantana/diogo-santana-site) | My portfolio ([live](https://diogosantana.dev.br)): static Astro site in 3 languages, containerized and self-hosted with Docker and Coolify | Astro · TypeScript · Docker |
 
 ---
 
